@@ -1,4 +1,4 @@
-# Varun Shourie, CIS345, Tuesday/Thursday, 12:00PM-1:15PM, Project Mental Anguish
+# Varun Shourie, Project Mental Anguish
 from tkinter import *
 from tkinter import ttk
 from tkinter import font
